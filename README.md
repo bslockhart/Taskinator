@@ -45,7 +45,7 @@ GitHub: [Brian Lockhart](https://github.com/bslockhart)
 
 ## Mock Up
 The following mock up image shows required display:
-![Mock Up](/images/mock-up.png)
+![Mock Up](assets/images/mockup.png)
 
 ### Steps:
 1. Set up the project in GitHub. We'll create a GitHub repository and clone it on our local machine.
