@@ -31,8 +31,8 @@ Personal Task-Tracker
 * Git and GitHub
 
 ## Credits
-GitHub: [Brian Lockhart](https://github.com/bslockhart)
-GitHub: [Deployed Application](https://bslockhart.github.io/Taskinator)
+* GitHub: [Brian Lockhart](https://github.com/bslockhart)
+* GitHub: [Deployed Application](https://bslockhart.github.io/Taskinator)
 
 ### Skills Learned
 * Create variables to store the quiz questions
